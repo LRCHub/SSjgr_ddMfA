@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "報酬系 (instrumental)",
+  "base_artist": "水槽",
+  "createdAt": "2026-02-07T10:05:46.116315Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "報酬系",
+      "artist": "水槽, lilbesh ramko",
+      "has_synced": false,
+      "path": "select/pl_01_報酬系_水槽,_lilbesh_ramko.txt"
+    }
+  ]
+}
